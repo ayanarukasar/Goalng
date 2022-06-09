@@ -1,2 +1,2 @@
-# Goalng
-Goalng full course 
+# Golang
+Golang full course 
