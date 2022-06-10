@@ -1,2 +1,2 @@
 # Golang
-Golang full course 
+Golang full course .
